@@ -13,6 +13,7 @@
         </Grid.ColumnDefinitions>
 
         <Grid.RowDefinitions>
+            
             <!-- Definición de las filas -->
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
